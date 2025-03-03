@@ -1,6 +1,8 @@
 # QuickMeds
 Welcome to **QuickMeds**, a React Native Expo project aimed at building a **comprehensive patient assistive application**. This README provides instructions and essential information for setting up and running the application during its **initial development phase**.
 
+- [Prototype Video URL](https://drive.google.com/file/d/1j5tJOxQ6qAUOoMzL-wuvfTQ3V2qgNsVG/view?usp=sharing)
+
 ## Doctor Dashboard github repo url :
 https://github.com/varunrao145/Medicure
 
@@ -122,7 +124,7 @@ eas build -p android
 📖 **Useful References**:
 - [EAS Documentation](https://docs.expo.dev/eas/)
 - [Expo Development Documentation](https://docs.expo.dev/development/build/) 
-- [Prototype Video URL](https://drive.google.com/file/d/1j5tJOxQ6qAUOoMzL-wuvfTQ3V2qgNsVG/view?usp=sharing)
+
 
 ---
 ## 🚧 **Known Limitations**
