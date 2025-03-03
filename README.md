@@ -1,6 +1,9 @@
 # QuickMeds
 Welcome to **QuickMeds**, a React Native Expo project aimed at building a **comprehensive patient assistive application**. This README provides instructions and essential information for setting up and running the application during its **initial development phase**.
 
+# Doctor Dashboard github repo url :
+https://github.com/varunrao145/Medicure
+
 ---
 ## 🚀 Get Started
 ### Prerequisites
