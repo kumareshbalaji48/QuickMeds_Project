@@ -121,7 +121,8 @@ eas build -p android
 
 📖 **Useful References**:
 - [EAS Documentation](https://docs.expo.dev/eas/)
-- [Expo Development Documentation](https://docs.expo.dev/development/build/)
+- [Expo Development Documentation](https://docs.expo.dev/development/build/) 
+- [Prototype Video URL](https://drive.google.com/file/d/1j5tJOxQ6qAUOoMzL-wuvfTQ3V2qgNsVG/view?usp=sharing)
 
 ---
 ## 🚧 **Known Limitations**
